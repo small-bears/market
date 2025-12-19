@@ -1,49 +1,59 @@
-# market
-基于SSM的二手交易市场
+
+### 联系方式（微信扫一扫）:
+<img width="444" height="560" alt="2fc79856-4bde-42f0-a5ea-83281867fbbe" src="https://github.com/user-attachments/assets/3eaeeaef-8fda-4c05-9f80-9e5361650c4a" />
+
+### 计算机毕设定制（直接点击链接）：https://www.yuque.com/techninja/code/xrpvpxbu3y8fa3ey?singleDoc#
+## 一、获取地址:
+
+#### 项目获取地址：https://www.666bear.com/12488.html
+
+**博主介绍：✌全网粉丝30W+,csdn特邀作者、Java领域优质创作者、csdn/掘金/哔哩哔哩/知乎/道客/小红书等平台优质作者，计算机毕设实战导师，目前专注于大学生项目实战开发,讲解,毕业答疑辅导✌工作室接计算机毕业设计程序开发、论文代写、代码讲解、出售成品源码等毕设服务，专业靠谱~**
+
+#### 作者QQ：3289948684 微信：bysj7626 (支持修改、 部署调试、 代做接毕业设计和课程设计)
+
+#### 接网站建设、小程序、H5、APP、各种系统、样式修改等
+
+#### 选题+开题报告+任务书+程序定制+安装调试+论文+答辩ppt 都可以做
+
+#### 有需求尽管甩过来！一条龙帮你安心过！
+
+#### 所有项目以及源代码本人均调试运行无问题 可支持远程调试运行
+# hotel
+基于SpringBoot的流浪动物救助与领养系统
 ## 一、 项目介绍
 
-   基于SSM的二手交易市场
+(协同过滤推荐算法)基于SpringBoot的流浪动物救助与领养系统分为前台用户模块及后台模块（管理员、救助站），具体功能如下：
 
-角色：管理员、会员
+（1）前台用户模块：首页、求助信息、流浪动物、公告信息、个人中心
+（2）后台管理员模块：主页、用户管理、救助站管理、求助信息管理、求助记录管理、动物种类管理、流浪动物管理、回访领养管理、健康档案管理、系统管理、个人中心
+（3）后台救助站模块：主页、求助信息管理、求助记录管理、流浪动物管理、宠物领养管理、回访档案管理、健康档案管理、个人中心
 
-前台用户可以实现商品浏览在 ，系统首页可以查看首页，商品信息，求购信息，留言板，个人中心，后台管理，购物车，在线客服等
+## 二、 视频演示（点击既可以看到）
 
-管理员登陆系统后，可以查看首页，个人中心，会员管理，商品分类管理，商品信息管理，求购信息管理，留言板管理，系统管理，订单管理等功能，还能对每个功能逐一进行相应操作
-    
-    
-## 二、视频演示
-    
-    
+https://www.bilibili.com/video/BV1p6yYBgEPU/?spm_id_from=333.1387.search.video_card.click&vd_source=e51e8ec2fb03314ad9fa517492a2ce94
 
-<p style="text-align: center;"><strong><span class="ne-text">建议点击这个</span><a style="color: #ff0000;" href="https://www.bilibili.com/video/BV1rM411V787/?spm_id_from=333.999.0.0&vd_source=b5789de9f485ad6d0cfaeca1ad4b230c">“链接”</a>查看高清视频</strong></p>
 
-## 三、 运行环境
+## 三、项目技术
 
-    开发语言：Java
+后端： SpringBoot+Mybaits
 
-    开发工具：IDEA，Eclipse,Myeclipse都可以。推荐IDEA
+前端：Layui +HTML+Vue +ELementUI 
 
-    JDK版本：1.8
 
-    数据库: MySQL5.7
 
-    Tomcat环境：Tomcat 7.x,8.x,9.x版本均可
+## 四、 运行环境
+
+开发语言：Java
+
+开发工具：IDEA，Eclipse,Myeclipse都可以。推荐IDEA
+
+JDK版本：1.8
+
+数据库: MySQL8.0版本以上
 
 项目管理：Maven
-
-## 四、项目技术
-
-    后端：SSM(Spring+SpringMVC+Mybatis)
-
-    前端：JSP+CSS+JS+JQUERY+Layui
-## 五、运行截图（点图片可放大）
-
-![1680062231369](https://github.com/small-bears/market/assets/124327024/9da94fbb-692e-4347-becf-65b8c5f858c0)
-![1682308493779](https://github.com/small-bears/market/assets/124327024/80f36048-9e88-4540-ae3f-1ca090cbc6ed)
-![ApplicationFrameHost_avDxrX0Scx](https://github.com/small-bears/market/assets/124327024/41836c01-64c1-4e0f-9856-73870f4b85a4)
-![ApplicationFrameHost_KcB5xrLlKk](https://github.com/small-bears/market/assets/124327024/30f9084f-00b8-4477-8f2e-539bfc8bb827)
-![ApplicationFrameHost_lVRrH4h0fl](https://github.com/small-bears/market/assets/124327024/d189b29c-159c-4fea-ad45-279efb77957f)
-![ApplicationFrameHost_U49sjPRTNO](https://github.com/small-bears/market/assets/124327024/921a8f53-9654-4ae6-953e-be91798968e7)
+## 五、 运行截图（点图片可放大）
 
 
+https://www.bilibili.com/video/BV1p6yYBgEPU/?spm_id_from=333.1387.search.video_card.click&vd_source=e51e8ec2fb03314ad9fa517492a2ce94
 
